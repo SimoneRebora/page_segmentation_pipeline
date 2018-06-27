@@ -2,7 +2,7 @@
 
 ##STEP0
 ##Preparation (creates some empty folders where to work in...)
-mkdir 1_corpus_raw 2a_corpus_clean 2b_corpus_clean_bw 3_regions_page 4_regions_images 5_regions_images_straight 6_regions_images_straight_page 7_lines_images 8_OCRed_texts 9_OCRed_texts_Transkribus OCR_quality_eval/OCRopus OCR_quality_eval/transcripts OCR_quality_eval/Transkribus
+mkdir 1_corpus_raw 2a_corpus_clean 2b_corpus_clean_bw 3_regions_page 4_regions_images 5_regions_images_straight 6_regions_images_straight_page 7_lines_images 8_OCRed_texts 9_OCRed_texts_Transkribus OCR_quality_eval OCR_quality_eval/OCRopus OCR_quality_eval/transcripts OCR_quality_eval/Transkribus
 
 ###############
 ##Page segmentation
